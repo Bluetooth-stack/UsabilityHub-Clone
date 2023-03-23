@@ -852,6 +852,10 @@ a:hover{
     text-decoration: none;
 }
 
+.policy a:hover{
+    color: #2294ed;
+}
+
 .social{
     display: flex;
     flex-wrap: wrap;
