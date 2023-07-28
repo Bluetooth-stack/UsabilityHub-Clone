@@ -1,9 +1,9 @@
 # UsabilityHub-Clone
-Clone of a website called Usability-Hub, but with less to no functionalities. Designed with CSS and a bit of Js for practice purpose.
+Clone of a website called Usability-Hub, but with less to no functionalities. Designed with CSS and basic Js.
 
-SEO friendly design.
-various hover animations, dropdownlist, flexbox, grids and modal.
-Fully responsive to different devices.
+- SEO friendly design.
+- various hover animations, dropdownlist, flexbox, grids and modal.
+- Fully responsive to different devices.
 
 
 ![Screenshot 2023-07-28 141628](https://github.com/Bluetooth-stack/UsabilityHub-Clone/assets/80689111/b34a6bcc-6a58-4731-84d5-e22f80ae8b1d)
